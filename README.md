@@ -36,7 +36,7 @@ I have found a rich world with endless possibilities, and thanks to Adnrew Ng an
   - [Week 1 - PA 1 - Initialization]
   - [Week 1 - PA 1 - Initialization]
 
-  - There is no PA for this course. But this course comes with very interesting case study quizzes.
+  - There are no PA for this course. But this course comes with very interesting case study quizzes.
   
 - Course 4: Convolutional Neural Networks
 
