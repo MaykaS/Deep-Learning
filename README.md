@@ -10,7 +10,7 @@ This repo contains all my work for this specialization.
 
 ## My thoughts
 
-As a CS student my goal is always keep learning.
+As a CS student my goal is to always keep learning.
 With time I got interested in the Deep Learning world and decided to dive in.
 I have found a rich world with endless possibilities, and thanks to Adnrew Ng and his colleagues I'm sure I acquire my knowledge from the best in the field.
 
