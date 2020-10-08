@@ -50,9 +50,9 @@ I have found a rich world with endless possibilities, and thanks to Adnrew Ng an
 
 - Course 5: Sequence Models
 
-  - [Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step]
-  - [Week 1 - PA 2 - Dinosaur Island - Character-Level Language Modeling]
-  - [Week 1 - PA 3 - Jazz improvisation with LSTM]
+  - [Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step](https://github.com/MaykaS/Deep-Learning/blob/main/Sequence%20Models/Building_a_Recurrent_Neural_Network_Step_by_Step_v3b.ipynb)
+  - [Week 1 - PA 2 - Dinosaur Island - Character-Level Language Modeling](https://github.com/MaykaS/Deep-Learning/blob/main/Sequence%20Models/Dinosaurus_Island_Character_level_language_model_final_v3b.ipynb)
+  - [Week 1 - PA 3 - Jazz improvisation with LSTM](https://github.com/MaykaS/Deep-Learning/blob/main/Sequence%20Models/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb)
   - [Week 2 - PA 1 - Operations on word vectors - Debiasing]
   - [Week 2 - PA 2 - Emojify]
   - [Week 1 - PA 2 - Neural Machine Translation with Attention]
